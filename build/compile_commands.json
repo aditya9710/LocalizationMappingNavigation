@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/admin/Documents/VSCode Projects/Localization/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/eigen3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=c++17 -o CMakeFiles/MultiDimensionalKalmanFilter.dir/MultiDimensionalKalmanFilter.cpp.o -c \"/Users/admin/Documents/VSCode Projects/Localization/MultiDimensionalKalmanFilter.cpp\"",
+  "file": "/Users/admin/Documents/VSCode Projects/Localization/MultiDimensionalKalmanFilter.cpp"
+},
+{
+  "directory": "/Users/admin/Documents/VSCode Projects/Localization/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/eigen3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=c++17 -o CMakeFiles/1DKalmanFilter.dir/1DKalmanFilter.cpp.o -c \"/Users/admin/Documents/VSCode Projects/Localization/1DKalmanFilter.cpp\"",
+  "file": "/Users/admin/Documents/VSCode Projects/Localization/1DKalmanFilter.cpp"
+},
+{
+  "directory": "/Users/admin/Documents/VSCode Projects/Localization/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/eigen3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=c++17 -o CMakeFiles/StatePrediction.dir/StatePrediction.cpp.o -c \"/Users/admin/Documents/VSCode Projects/Localization/StatePrediction.cpp\"",
+  "file": "/Users/admin/Documents/VSCode Projects/Localization/StatePrediction.cpp"
+},
+{
+  "directory": "/Users/admin/Documents/VSCode Projects/Localization/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=c++17 -o CMakeFiles/Gaussian.dir/Gaussian.cpp.o -c \"/Users/admin/Documents/VSCode Projects/Localization/Gaussian.cpp\"",
+  "file": "/Users/admin/Documents/VSCode Projects/Localization/Gaussian.cpp"
+},
+{
+  "directory": "/Users/admin/Documents/VSCode Projects/Localization/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=c++17 -o CMakeFiles/Localization.dir/Localization.cpp.o -c \"/Users/admin/Documents/VSCode Projects/Localization/Localization.cpp\"",
+  "file": "/Users/admin/Documents/VSCode Projects/Localization/Localization.cpp"
+},
+{
+  "directory": "/Users/admin/Documents/VSCode Projects/Localization/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/eigen3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=c++17 -o CMakeFiles/MeasurementUpdate.dir/MeasurementUpdate.cpp.o -c \"/Users/admin/Documents/VSCode Projects/Localization/MeasurementUpdate.cpp\"",
+  "file": "/Users/admin/Documents/VSCode Projects/Localization/MeasurementUpdate.cpp"
+}
+]
